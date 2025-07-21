@@ -30,5 +30,3 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 <a href="https://www.youtube.com/c/rgsdgsrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rgsdgsrg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codegainers"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="code gainers" /></a></p><br><br>
