@@ -17,29 +17,7 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 ---
 [![](https://visitcount.itsvg.in/api?id=CODEGAINERS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asdasd&label=Profile%20views&color=0e75b6&style=flat" alt="asdasd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asdasd" alt="asdasd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/asda" target="blank"><img src="https://img.shields.io/twitter/follow/asda?logo=twitter&style=for-the-badge" alt="asda" /></a> </p>
-
-- 🔭 I’m currently working on [a](asdas)
-
-- 👯 I’m looking to collaborate on [dasd](dasd)
-
-- 🤝 I’m looking for help with [aasd](das)
-
-- 📝 I regularlasdy write articles on [asd](asd)
-
-- 💬 Ask me aboasdut **asdasd**
-
-- 📫 How to reasdasdach me **asd**
-
-- 📄 Know about my experiencesasdas [sadasd](sadasd)
-
-- ⚡ Fun factdaddd **ddd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
