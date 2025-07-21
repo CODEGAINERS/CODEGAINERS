@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Codegainers 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 <img src="banner.jpg">
 
