@@ -2,6 +2,10 @@
 
 <img src="banner.jpg">
 
+Simple and practical tutorials to build real-world skills
+Behind-the-scenes dev vlogs to share the highs and lows of learning to code
+Our mission is to make programming feel approachable, fun, and future-proof — no matter where you're starting from.
+
 
 
 
