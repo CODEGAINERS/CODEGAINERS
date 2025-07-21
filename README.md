@@ -16,7 +16,6 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEGAINERS&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/codegainers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codegainers" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code.gainers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code.gainers" height="30" width="40" /></a>
