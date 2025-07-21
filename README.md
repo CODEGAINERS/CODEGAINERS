@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to Codegainers 👋</h1>
-<h3 align="center">A passionate frontend develogrsgper from India</h3>
 
 We make:
 
