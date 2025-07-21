@@ -20,11 +20,6 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sdasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sdasd" height="30" width="40" /></a>
-<a href="https://dev.to/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asd" height="30" width="40" /></a>
-<a href="https://twitter.com/asda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asdsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdsd" height="30" width="40" /></a>
-<a href="https://fb.com/asda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asda" height="30" width="40" /></a>
 <a href="https://instagram.com/erger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erger" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rgsdgsrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rgsdgsrg" height="30" width="40" /></a>
 </p>
