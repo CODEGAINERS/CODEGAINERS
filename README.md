@@ -1,4 +1,5 @@
-# Welcome at Codegainers👋
+<h1 align="center">Welcome to Codegainers 👋</h1>
+<h3 align="center">A passionate frontend develogrsgper from India</h3>
 
 We make:
 
@@ -18,8 +19,6 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 [![](https://visitcount.itsvg.in/api?id=CODEGAINERS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm gssegs</h1>
-<h3 align="center">A passionate frontend develogrsgper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asdasd&label=Profile%20views&color=0e75b6&style=flat" alt="asdasd" /> </p>
 
