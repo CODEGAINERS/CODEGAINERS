@@ -1,6 +1,14 @@
-## Welcome 👋
+## Welcome at Codegainers👋
 
 
+This is Codegainers, an English-language YouTube channel focused on helping beginner programmers kickstart their coding journey.
+
+We make:
+
+Simple and practical tutorials to build real-world skills
+Honest product reviews — like whether a MacBook is worth it for coding
+Behind-the-scenes dev vlogs to share the highs and lows of learning to code
+Our mission is to make programming feel approachable, fun, and future-proof — no matter where you're starting from.
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code.gainers) 
 
