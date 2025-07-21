@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Codegainers <img src="wavinghand.gif" height="10px" width="10px" ></h1>
+<h1 align="center">Welcome to Codegainers <img src="wavinghand.gif" height="30px" width="30px" ></h1>
 
 We make:
 
