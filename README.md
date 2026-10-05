@@ -15,19 +15,22 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/codegainers" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/codegainers" target="_blank">
+    <i class="fa-brands fa-instagram"></i>
   </a>
-  <a href="https://www.youtube.com/@code.gainers" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+
+  <a href="https://www.youtube.com/@code.gainers" target="_blank">
+    <i class="fa-brands fa-youtube"></i>
   </a>
+
   <a href="https://x.com/codegainers" target="_blank">
-    <img align="center"
-         src="https://cdn.simpleicons.org/x/000000"
-         alt="X (formerly Twitter)" height="30" width="40" />
+    <i class="fa-brands fa-x-twitter"></i>
+  </a>
+
+  <a href="https://www.threads.net/@codegainers" target="_blank">
+    <i class="fa-brands fa-threads"></i>
   </a>
 </p>
-
 
 
 
