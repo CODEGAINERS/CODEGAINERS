@@ -27,7 +27,7 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
     <img src="https://cdn.simpleicons.org/x" alt="X" height="30" width="40" />
   </a>
 
-  <a href="https://www.threads.net/@codegainers" target="_blank">
+  <a href="https://www.threads.com/@codegainers" target="_blank">
     <img src="https://cdn.simpleicons.org/threads" alt="Threads" height="30" width="40" />
   </a>
 </p>
