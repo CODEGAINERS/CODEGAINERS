@@ -21,11 +21,10 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
   <a href="https://www.youtube.com/@code.gainers" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://x.com/codegainers" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
-  </a>
-  <a href="https://www.threads.net/@codegainers" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="Threads" height="30" width="40" />
+  <a href="https://x.com/codegainers" target="_blank">
+    <img align="center"
+         src="https://cdn.simpleicons.org/x/000000"
+         alt="X (formerly Twitter)" height="30" width="40" />
   </a>
 </p>
 
