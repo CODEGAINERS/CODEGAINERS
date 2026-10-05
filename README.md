@@ -16,21 +16,20 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/codegainers" target="_blank">
-    <i class="fa-brands fa-instagram"></i>
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="30" width="40" />
   </a>
 
   <a href="https://www.youtube.com/@code.gainers" target="_blank">
-    <i class="fa-brands fa-youtube"></i>
+    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" height="30" width="40" />
   </a>
 
   <a href="https://x.com/codegainers" target="_blank">
-    <i class="fa-brands fa-x-twitter"></i>
+    <img src="https://cdn.simpleicons.org/x" alt="X" height="30" width="40" />
   </a>
 
   <a href="https://www.threads.net/@codegainers" target="_blank">
-    <i class="fa-brands fa-threads"></i>
+    <img src="https://cdn.simpleicons.org/threads" alt="Threads" height="30" width="40" />
   </a>
 </p>
-
 
 
