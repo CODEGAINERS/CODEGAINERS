@@ -17,6 +17,7 @@ Our mission is to make programming feel approachable, fun, and future-proof — 
 <p align="left">
 <a href="https://instagram.com/codegainers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erger" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@code.gainers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rgsdgsrg" height="30" width="40" /></a>
+  <a href="https://instagram.com/codegainers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="erger" height="30" width="40" /></a>
 </p>
 
 
